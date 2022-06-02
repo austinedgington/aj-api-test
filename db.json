@@ -1,3 +1,5 @@
+{
+  "links":[
     {
       "link" : "https://atlassian.thetradedesk.com/jira",
       "title": "Jira",
@@ -13,3 +15,5 @@
       "title": "Support Portal",
       "description" : "Need to file a ticket with one of our various teams? Head to the Support Portal!"
     }
+  ]
+}
