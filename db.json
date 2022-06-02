@@ -1,16 +1,19 @@
 {
-  "posts":[
+  "links":[
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "link" : "https://atlassian.thetradedesk.com/jira",
+      "title": "Jira",
+      "description" : "Need to work on some tickets? Jira."
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "link" : "https://atlassian.thetradedesk.com/confluence",
+      "title": "Confluence",
+      "description" : "Looking for an article? Confluence."
+    },
+    {
+      "link" : "https://atlassian.thetradedesk.com/jira/plugins/servlet/desk/site/support",
+      "title": "Support Portal",
+      "description" : "Need to file a ticket with one of our various teams? Head to the Support Portal!"
     }
   ]
 }
